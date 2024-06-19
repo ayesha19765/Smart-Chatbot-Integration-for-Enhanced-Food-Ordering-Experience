@@ -33,10 +33,4 @@ Moving forward, continuous refinement and optimization of the chatbot system wil
 
 Feel free to contribute, raise issues, or give feedback to help us improve the NaysaChatBot. Together, let's redefine the future of digital food ordering!
 
-### Contact
-
-For any inquiries or support, please reach out to us at:
-- **Email:** support@freshanddeliciousfoods.com
-- **GitHub:** [NaysaChatBot Repository](https://github.com/your-repo-link)
-
 Thank you for your interest and support!
