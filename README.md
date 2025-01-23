@@ -10,12 +10,6 @@ NaysaChatBot is an intelligent and interactive chatbot system designed to revolu
 
 ## Features:
 
-<img width="600" alt="Chatbot Interface" src="./Frontend/ss1.png">
-<img width="600" alt="Chatbot Interface" src="./Frontend/ss2.png">
-<img width="300" alt="Chatbot Interface" src="./Frontend/ss3.png">
-<img width="300" alt="Chatbot Interface" src="./Frontend/ss4.png">
-
-
 ### **Enhanced Customer Engagement:**
 - Interactive, human-like conversations that make food ordering simple and enjoyable.
 - Personalized recommendations based on user preferences and past orders.
@@ -113,6 +107,14 @@ NaysaChatBot is an intelligent and interactive chatbot system designed to revolu
 ### 6. Scalability:
 - Flexible and adaptable to future requirements.
 - Capable of handling increased user interactions.
+
+---
+## Screenshots
+
+<img width="600" alt="Chatbot Interface" src="./Frontend/ss1.png">
+<img width="600" alt="Chatbot Interface" src="./Frontend/ss2.png">
+<img width="300" alt="Chatbot Interface" src="./Frontend/ss3.png">
+<img width="300" alt="Chatbot Interface" src="./Frontend/ss4.png">
 
 ---
 
